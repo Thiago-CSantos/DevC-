@@ -1,2 +1,2 @@
-# DevC-
+# DevC++
 My project en C
