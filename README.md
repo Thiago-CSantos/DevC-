@@ -1,2 +1,2 @@
 # DevC++
-<h2>Tecnicas desenvolvidas em C no DevC++<h2/>
+<h2>Tecnicas e algoritmos desenvolvidas em C no DevC++<h2/>
